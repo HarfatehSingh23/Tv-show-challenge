@@ -1,0 +1,105 @@
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.menu { 
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.menu ul {
+    list-style-type: none;
+}
+.menu ul li {
+    display: inline;
+    margin-left: 20px;
+}
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.featured-show {
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.top-shows {
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.top-shows div {
+    background-color: #f2f2f2
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.recent-reviews {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.recent-reviews div {
+    margin-bottom: 20px;
+}
+
+.contact form {
+    margin-top: 20px;
+}
+.contact form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.contact form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.contact form button {
+    background-color: #fff;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+.contact form button:hover {
+    background-color: #ccc;
+}
+
+.stranger-things-image{
+    width: 120mm;
+    border: solid grey;
+}
+
+.game-of-thrones-img{
+    width: 120mm;
+    border: solid grey;
+}
+
+.breaking-bad-img{
+    width: 120mm;
+    border: solid grey;
+}
+
+.the-mandolorian-img{
+    width: 120mm;
+    border: solid grey;
+}
+
+.the-witcher-img{
+    width: 120mm;
+    border: solid grey;
+}
+
+.the-crown-img{
+    width: 120mm;
+    border: solid grey
+}
+
